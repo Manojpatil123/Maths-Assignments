@@ -1,2 +1,2 @@
 # Assignments
-solving assignments question of different topics
+solving assignment question of different topics
